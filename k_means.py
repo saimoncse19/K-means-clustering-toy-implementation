@@ -62,5 +62,3 @@ plt.scatter(final_centroid_2[0], final_centroid_2[1], color="black")
 
 plt.legend()
 plt.show()
-print(cluster2)
-print(cluster1)
