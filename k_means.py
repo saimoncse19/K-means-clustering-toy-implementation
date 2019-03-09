@@ -1,5 +1,6 @@
 """K-means clustering toy implementation
 Author: Saimon
+Email: saimoncse19@gmail.com
 Date: March 09, 2019 """
 
 
