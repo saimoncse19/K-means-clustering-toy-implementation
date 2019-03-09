@@ -26,9 +26,6 @@ garbage2 = []
 centroid_1 = np.array([[2, 4]])
 centroid_2 = np.array([[5, 2]])
 
-garbage1.append(list(centroid_1))
-garbage2.append(list(centroid_2))
-
 for i in a:
     distance1 = np.linalg.norm(i - centroid_1)      # euclidean distance between i and centroid_1
     distance2 = np.linalg.norm(i - centroid_2)      # euclidean distance between i and centroid_2
